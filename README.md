@@ -18,7 +18,7 @@ There were
 :------------------------------------------:| :-------------------------------------:	
 ![](img/count_vine.png) | ![](img/count_nonvine.png)
 <p align="center">
-<i>Figure 1: Total Vine and non-Vine reviews.</i>
+<i>Image 1: Total Vine and non-Vine reviews.</i>
 </p>
 
 
@@ -29,11 +29,11 @@ There were
 - **23,043**  five stars **non-Vine** reviews.
 
 
-(Figure 1) | (Figure 2)
+(Figure 3) | (Figure 4)
 :------------------------------------------:| :-------------------------------------:	
 ![](img/max_rating_vine.png) | ![](img/max_rating_nonvine.png)
 <p align="center">
-<i>Figure 2: Number of 5-star Vine and non-Vine reviews.</i>
+<i>Image 2: Number of 5-star Vine and non-Vine reviews.</i>
 </p>
 
 ***What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?***
@@ -42,11 +42,11 @@ There were
 - **46.4 %** of **non-Vine** reviews were 5 stars.
 
 
-(Figure 1) | (Figure 2)
+(Figure 5) | (Figure 6)
 :------------------------------------------:| :-------------------------------------:	
 ![](img/percent_vine.png) | ![](img/percent_nonvine.png)
 <p align="center">
-<i>Figure 3: Percentage of Vine and non-vine reviews that were 5 stars.</i>
+<i>Image 3: Percentage of Vine and non-vine reviews that were 5 stars.</i>
 </p>
 
 ## Summary
@@ -68,11 +68,11 @@ In the analysis I analyze 5-star reviews within conditions mentioned above. Calc
 - also look at the average rating that each program has acumulated as can be seen below (though a coution on this mehtod as sample sizes of each (vine and non-vine) data sets differ vastly): 
 
 
-(Figure 1) | (Figure 2)
+(Figure 7) | (Figure 8)
 :------------------------------------------:| :-------------------------------------:	
 ![](img/paid_program.png) | ![](img/unpaid_program.png)
 <p align="center">
-<i>Figure 4: Average star rating of paid(vine) and unpaid(non-vine) programs.</i>
+<i>Image 4: Average star rating of paid(vine) and unpaid(non-vine) programs.</i>
 </p>
 
 As we can see the vine program had a significantly higher average star rating than that of the non-vine (4.09 v 3.65), and so implimentatnion and use of the vine program may actually indeed result in an overall higher star rating for that vendor (on average).
