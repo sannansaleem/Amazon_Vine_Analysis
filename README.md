@@ -1,11 +1,7 @@
-# Amazon_Vine_Analysis
-
-*Analysis with Pyspak and AWS*
-
-Note: Password from Amazon_Reviews_ETL.ipynb file is deleted for safety reason. File needs pgAdmin password in order to run. 
+# Amazon_Vine_Analysis 
 
 ## Project Overview
-For this project I am using Amazon’s cloud service AWS, Google Colab and Pyspark to analyze Amazon’s reviews for outdoor products. The purpose of this analysis is to determine if there is any bias toward favorable reviews from Vine members. Amazon Vine program is a service that allows manufacturers to have reviews posted on Amazon for their pre-release items, for an additional fee.  
+This project utilizes Amazon’s cloud service AWS, Google Colab and Pyspark to analyze Amazon’s reviews for Electronic products. The purpose of this analysis is to determine if any bias toward favorable reviews from Vine members exists. Amazon Vine program is a service that allows manufacturers to have reviews posted on Amazon for their pre-release items, for an additional fee.  
 
 
 ## Results
